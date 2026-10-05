@@ -245,7 +245,7 @@ wBNB,
 https://orbmarkets.io/token/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa
 
 USDT,
-https://orbmarkets.io/token/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa
+https://orbmarkets.io/token/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
 
 地球eac电脑钱包，
 https://github.com/Sandokaaan/Earthcoin/
